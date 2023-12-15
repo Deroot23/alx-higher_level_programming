@@ -1,1 +1,1 @@
-this is the readme of the python class
+this is the project readme
